@@ -2,6 +2,7 @@
 A Chatbot using Telegram would be controlling home appliances at home
 
 # Block Diagram
+<img src="telegram-controlled-iot-lamp.png" height="500" width="900" />
 
 # Components
 1. ESP32 Board
@@ -15,8 +16,12 @@ from prototype stage to production stage. He trained more than 1.8 lakh students
 Augmented and Virtual Reality, Robotics, Blockchain etc...
 
 # Purchase the entire project
-You can purchase the entire DIY Project Kit (Do-It-Yourself) from our portal. <br/>
+You can purchase the entire DIY Project Kit (Do-It-Yourself) from our store. <br/>
 https://rzp.io/l/maddyProject1
+
+# Get Webinar Certificate
+If you want to get webinar certificate, get through the following link <br/>
+https://rzp.io/l/MaddyIoT
 
 # Join our Telegram Channel
 https://t.me/+3Fk4nGJs6qs5MzJl
